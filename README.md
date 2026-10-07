@@ -64,36 +64,36 @@ The sector is **moderately concentrated** among mega-cap tech giants (Microsoft 
 ## 🔓 Open-Source Active Directory & Directory Servers
 
 > [!TIP]
-> Open-source directory solutions are ordered by **GitHub Star Count (Descending)**.
+> Open-source directory solutions are ordered by **GitHub Stars_Count (Descending)**.
 
-- **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) 🔐  
+- **[Keycloak](https://github.com/keycloak/keycloak)** [![GitHub_Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) 🔐  
   **Open-Source Identity and Access Management for Modern Applications**, Apache-2.0 licensed. Provides SSO, User Federation (LDAP & Active Directory integration), OpenID Connect, SAML 2.0, and fine-grained authorization services. **Best for cloud-native IAM and application SSO.**
 
-- **[Authelia](https://github.com/authelia/authelia)** [![GitHub stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers) 🛡️  
+- **[Authelia](https://github.com/authelia/authelia)** [![GitHub_Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers) 🛡️  
   **The Single Sign-On Multi-Factor portal for web applications**, Apache-2.0 licensed. Companion to reverse proxies (Traefik, NGINX, Caddy) offering 2FA (TOTP, WebAuthn) and LDAP identity provider integration. **Best for self-hosted home lab & SMB reverse proxy authentication.**
 
-- **[Authentik](https://github.com/goauthentik/authentik)** [![GitHub stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers) ⚡  
+- **[Authentik](https://github.com/goauthentik/authentik)** [![GitHub_Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers) ⚡  
   **The open-source Identity Provider focused on flexibility and security**, GPL-3.0 licensed. Built-in support for OAuth2, SAML, LDAP Server interface, and customizable authentication flows with Python expression policies. **Best for modern enterprise open-source IdP.**
 
-- **[FreeIPA](https://github.com/freeipa/freeipa)** [![GitHub stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers) 🐧  
+- **[FreeIPA](https://github.com/freeipa/freeipa)** [![GitHub_Stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers) 🐧  
   **Integrated Identity and Authentication solution for Linux/Unix environments**, GPL-3.0 licensed. Combines 389 Directory Server, MIT Kerberos, Dogtag PKI, and Samba for cross-forest trusts with Microsoft Active Directory. **Best for Linux-centric domain identity & AD trusts.**
 
-- **[Samba](https://github.com/samba-team/samba)** [![GitHub stars](https://img.shields.io/github/stars/samba-team/samba?style=social&color=white)](https://github.com/samba-team/samba/stargazers) 🪟  
+- **[Samba](https://github.com/samba-team/samba)** [![GitHub_Stars](https://img.shields.io/github/stars/samba-team/samba?style=social&color=white)](https://github.com/samba-team/samba/stargazers) 🪟  
   **The premier open-source implementation of SMB and Active Directory protocols**, GPL-3.0 licensed. Functions directly as a full Active Directory Domain Controller (AD DC) with Kerberos KDC, LDAP server, and DNS services. **Best for drop-in open-source Windows AD domain controller replacement.**
 
-- **[OpenLDAP](https://github.com/openldap/openldap)** [![GitHub stars](https://img.shields.io/github/stars/openldap/openldap?style=social&color=white)](https://github.com/openldap/openldap/stargazers) 🗄️  
+- **[OpenLDAP](https://github.com/openldap/openldap)** [![GitHub_Stars](https://img.shields.io/github/stars/openldap/openldap?style=social&color=white)](https://github.com/openldap/openldap/stargazers) 🗄️  
   **The high-performance open-source LDAP directory suite**, OpenLDAP Public License. Industry-standard reference C implementation offering robust multi-master replication and extreme throughput. **Best for high-performance enterprise LDAP infrastructure.**
 
-- **[midPoint](https://github.com/Evolveum/midpoint)** [![GitHub stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=social&color=white)](https://github.com/Evolveum/midpoint/stargazers) 📊  
+- **[midPoint](https://github.com/Evolveum/midpoint)** [![GitHub_Stars](https://img.shields.io/github/stars/Evolveum/midpoint?style=social&color=white)](https://github.com/Evolveum/midpoint/stargazers) 📊  
   **Comprehensive open-source Identity Governance and Administration (IGA) platform**, Apache-2.0 / EUPL licensed. Advanced identity provisioning, role mining, automated lifecycle sync, and regulatory compliance (GDPR, NIS2, ISO 27001). **Best for enterprise identity governance & synchronization.**
 
-- **[389 Directory Server](https://github.com/389ds/389-ds-base)** [![GitHub stars](https://img.shields.io/github/stars/389ds/389-ds-base?style=social&color=white)](https://github.com/389ds/389-ds-base/stargazers) 🏢  
+- **[389 Directory Server](https://github.com/389ds/389-ds-base)** [![GitHub_Stars](https://img.shields.io/github/stars/389ds/389-ds-base?style=social&color=white)](https://github.com/389ds/389-ds-base/stargazers) 🏢  
   **Enterprise-class LDAP server from Red Hat**, GPL-3.0 licensed. Supports multi-master replication, Active Directory synchronization, and serving as the LDAP foundation for FreeIPA. **Best for enterprise-grade LDAP with AD sync.**
 
-- **[ApacheDS](https://github.com/apache/directory-server)** [![GitHub stars](https://img.shields.io/github/stars/apache/directory-server?style=social&color=white)](https://github.com/apache/directory-server/stargazers) ☕  
+- **[ApacheDS](https://github.com/apache/directory-server)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/directory-server?style=social&color=white)](https://github.com/apache/directory-server/stargazers) ☕  
   **Extensible Java-based LDAP and Kerberos directory server**, Apache-2.0 licensed. Certified LDAPv3 server managed via Apache Directory Studio. **Best for cross-platform Java environments.**
 
-- **[LSC-Project (LDAP Synchronization Connector)](https://github.com/lsc-project/lsc)** [![GitHub stars](https://img.shields.io/github/stars/lsc-project/lsc?style=social&color=white)](https://github.com/lsc-project/lsc/stargazers) 🔄  
+- **[LSC-Project (LDAP Synchronization Connector)](https://github.com/lsc-project/lsc)** [![GitHub_Stars](https://img.shields.io/github/stars/lsc-project/lsc?style=social&color=white)](https://github.com/lsc-project/lsc/stargazers) 🔄  
   **Identity synchronization connector engine**, Apache-2.0 licensed. Connects and synchronizes data between LDAP directories, Active Directory, SQL databases, and web services. **Best for directory data migrations & continuous sync.**
 
 - **[Univention Nubus](https://www.univention.com/solutions/alternative-to-microsoft-active-directory/)** 🏛️  
